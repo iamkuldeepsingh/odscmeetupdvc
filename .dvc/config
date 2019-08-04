@@ -1,5 +1,0 @@
-
-['remote "upstream"']
-url = /tmp/dvctest
-[core]
-remote = upstream
