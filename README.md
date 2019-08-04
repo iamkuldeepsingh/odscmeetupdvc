@@ -1,7 +1,6 @@
-# odscmeetupdvc
-DVC demo for ODSC meetup Delhi
-This Code is kind of replication of the code https://github.com/iterative/dvc.org/tree/master/static/docs/tutorial (Thanks to DVC org for such a good code)
-I have added the shell script to quickly run it in sequence rather than typing all the commands by hand
+# DVC demo for ODSC meetup Delhi
+This Code is replication of the code https://github.com/iterative/dvc.org/tree/master/static/docs/tutorial (Thanks to DVC org for such a nice code), I have added the shell script to quickly run it in sequence rather than typing all the commands by hand during practise session.
+
 ```
 samplecode.sh
 setupdvc.sh
