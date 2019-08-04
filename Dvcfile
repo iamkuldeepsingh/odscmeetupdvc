@@ -1,8 +1,8 @@
-md5: 
+md5: 94a243c79055550ca89fd890ad67cfdb
 cmd: python code/evaluate.py
 wdir: .
 deps:
-- md5: 
+- md5: 470ff584bf0f69007c4f783ac2a94c19
 
   path: data/model.p
 - md5: 22de9d1e3623388e9f95d7132a103ce2
@@ -12,7 +12,7 @@ deps:
 - md5: 17f591c0c65a450fd53b34ba0ac6df7b
   path: code/conf.py
 outs:
-- md5: 
+- md5: 2cad992a50a1421aac5434d9f03407e6
   path: data/eval.txt
   cache: false
   metric: true

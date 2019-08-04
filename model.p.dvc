@@ -1,4 +1,4 @@
-md5: 
+md5: e13e53d5b4180e6d91dcaf9c493c53af
 cmd: python code/train_model.py 20180319
 wdir: .
 deps:
@@ -9,7 +9,7 @@ deps:
 - md5: 17f591c0c65a450fd53b34ba0ac6df7b
   path: code/conf.py
 outs:
-- md5: 495824cb4c83b6706f906a1be51d3dad
+- md5: 470ff584bf0f69007c4f783ac2a94c19
   path: data/model.p
   cache: true
   metric: false
