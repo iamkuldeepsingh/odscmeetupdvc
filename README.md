@@ -10,8 +10,9 @@ initdvc.sh
 initdata.sh
 rundvc.sh
 runmodel.sh
-modeleval.sh
 repro.sh
+Adding bigrams step is manual
+modeleval.sh
 datapush.sh
 mastercheckout.sh
 mastermerge.sh
