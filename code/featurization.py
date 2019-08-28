@@ -48,7 +48,7 @@ df_train = get_df(train_input)
 train_words = np.array(df_train.text.str.lower().values.astype('U'))
 
 bag_of_words = CountVectorizer(stop_words='english',
-                               max_features=5000)
+                               max_features=6000)
 bag_of_words.fit(train_words)
 train_words_binary_matrix = bag_of_words.transform(train_words)
 

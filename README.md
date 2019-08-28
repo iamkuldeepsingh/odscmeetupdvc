@@ -15,9 +15,11 @@ Adding bigrams (Manual Steps)
 modeleval.sh
 mastercheckout.sh
 Tune the model (Manual Steps)
+mastercheckout.sh
+mastermerge.sh
 tuningcommit.sh
-datapush.sh
 mastermerge.sh
 pullrepro.sh
+datapush.sh
 
 ```
