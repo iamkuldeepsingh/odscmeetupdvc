@@ -1,17 +1,28 @@
 cmd: python code/evaluate.py
 deps:
+<<<<<<< HEAD
 - md5: 8844ba18109ff475b8ce392d9e68c80d
+=======
+- md5: 53751eb5011bffe09e99f7f92799cc9b
+>>>>>>> bigrams
   path: data/model.p
-- md5: de6045fc4419c619b01f58b508e0a25a
+- md5: d8b69acd118f92046bbb66adf08aaf9c
   path: data/matrix-test.p
 - md5: fa355e4d05408776bbfca2c144a1d560
   path: code/evaluate.py
 - md5: 17f591c0c65a450fd53b34ba0ac6df7b
   path: code/conf.py
+<<<<<<< HEAD
 md5: 52d52586ba534c8f9db8e8ccf6c9a32a
 outs:
 - cache: false
   md5: 33b7613b91d27d781ad1d4bde18e2c0f
+=======
+md5: 0c5bb3e019b2ebe3104e41058486c3e2
+outs:
+- cache: false
+  md5: 322fc1fcf6c4cda715373a5fabfdb007
+>>>>>>> bigrams
   metric: true
   path: data/eval.txt
   persist: false
