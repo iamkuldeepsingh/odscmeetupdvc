@@ -1,15 +1,15 @@
 cmd: python code/train_model.py 20180319
 deps:
-- md5: ''
+- md5: 3de11c3d1e0cf84fac02c6e14e563dd9
   path: data/matrix-train.p
-- md5: ''
+- md5: 81be33c2ead4c81ac6bb4d734e78ce76
   path: code/train_model.py
-- md5: ''
+- md5: 17f591c0c65a450fd53b34ba0ac6df7b
   path: code/conf.py
-md5: ''
+md5: 74b71e71a33a13d642d95cacf730debe
 outs:
 - cache: true
-  md5: ''
+  md5: ef07997a71f5e4ce461f69675d3384c1
   metric: false
   path: data/model.p
   persist: false
