@@ -1,5 +1,5 @@
 mkdir data
-wget -P data https://dvc.org/s3/so/100K/Posts.xml.zip
+wget -P data https://data.dvc.org/tutorial/nlp/100K/Posts.xml.zip
 du -sh data/*
 dvc add data/Posts.xml.zip
 du -sh data/*
