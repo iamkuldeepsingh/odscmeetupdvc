@@ -1,2 +1,2 @@
-git checkout -b train_bigram
-git merge bigram
+git checkout train_bigram
+git merge bigrams

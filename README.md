@@ -10,11 +10,14 @@ initdvc.sh
 initdata.sh
 rundvc.sh
 runmodel.sh
-modeleval.sh
 repro.sh
-datapush.sh
+Adding bigrams (Manual Steps)
+modeleval.sh
 mastercheckout.sh
-mastermerge.sh
+Tune the model (Manual Steps)
 tuningcommit.sh
+datapush.sh
+mastermerge.sh
 pullrepro.sh
+
 ```
